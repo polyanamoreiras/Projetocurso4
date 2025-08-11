@@ -7,6 +7,5 @@
 
     atual.classList.remove('ativo');
     document.getElementByid(proximoPasso).classList.add('ativo');
-
-})
+  })
 })

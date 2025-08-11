@@ -22,3 +22,12 @@ button{
 .passo.ativo{
   display: block;
 }
+
+main {
+  text-align: center;
+  max-width: 90%;
+}
+
+main {
+max-width: 80%;
+}
